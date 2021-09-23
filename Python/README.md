@@ -17,6 +17,7 @@
 - [List_&_Matrix](./List_&_Matrix)
 - [What_is_an_object_in_Python](./What_is_an_object_in_Python)
 - [How_to_install_python](./How_to_install_Python?)
+- [Python_Error_and_its_types](./Python_Error_and_its_types)
 ## Learning path
 1. Git & GitHub
 2. Brief history of python
@@ -27,3 +28,4 @@
 7. Operators
 8. List_&_Matrix
 9. How_to_install_Python?
+10.Python_Error_and_its_types?
